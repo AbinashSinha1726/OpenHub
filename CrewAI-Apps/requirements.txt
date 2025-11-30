@@ -1,0 +1,5 @@
+dotenv
+crewai
+ipykernel
+ipywidgets
+crewai-tools
