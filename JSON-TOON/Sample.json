@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Abinash Kumar",
+            "email": "abinash@gmail.com",
+            "role": "Developer",
+            "city": "Bangalore",
+            "active": true
+        },
+        {
+            "id": 2,
+            "name": "Prakash Kumar",
+            "email": "Prakash@gmail.com",
+            "role": "Admin",
+            "city": "Pune",
+            "active": true
+        },
+        {
+            "id": 3,
+            "name": "Ram Kumar",
+            "email": "ram@gmail.com",
+            "role": "Designer",
+            "city": "Mumbai",
+            "active": true
+        }
+    ]
+}
