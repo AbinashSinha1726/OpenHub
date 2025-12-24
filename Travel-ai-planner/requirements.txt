@@ -1,1 +1,9 @@
-
+fastapi
+uvicorn
+streamlit
+openai
+pydantic
+python-dotenv
+google-search-results
+crewai
+google-generativeai
