@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+yfinance
+openai
+python-dotenv
+plotly
+scikit-learn
+requests
+dotenv
+ipykernel
+ipywidgets
+crewai 
+crewai-tools
